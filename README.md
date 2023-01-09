@@ -1,3 +1,8 @@
+<table align="right">
+ <tr><td><a href="https://github.com/Marllon-Freitas/Marllon-Freitas/blob/master/README-en-US.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Marllon-Freitas/Marllon-Freitas/blob/master/README.md">:brazil: Português</a></td></tr>
+</table>
+
 <div style="background-color: #232323; padding: 2rem 1.5rem; border-radius: 10px">
   <h1 style="font-family: Nunito, sans-serif">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Marllon Freitas</h1>
 
