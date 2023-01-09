@@ -1,3 +1,8 @@
+<table align="right">
+ <tr><td><a href="https://github.com/Marllon-Freitas/Marllon-Freitas/blob/master/README-en-US.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Marllon-Freitas/Marllon-Freitas/blob/master/README.md">:brazil: Português</a></td></tr>
+</table>
+
 <div style="background-color: #232323; padding: 2rem 1.5rem; border-radius: 10px">
   <h1 style="font-family: Nunito, sans-serif">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marllon Freitas</h1>
 
@@ -9,7 +14,7 @@
 
   <br>
 
-  ## Technologies:
+## Tecnologias:
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Marllon-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,13 +25,16 @@
   
   <br>
 
-  <div style="width: 100%; display: flex;">
-    <a href="https://github.com/marllon-freitas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-  </div>
-
+  <div align="center">
+     <a href="https://github.com/marllon-freitas">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <a href="https://github.com/marllon-freitas">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+        <div align="center">
+     <a href="https://github.com/marllon-freitas">
+      <img height="180em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=marllon-freitas&theme=dark">
+    </div>
   <br />
 
   ### Come say hi:
