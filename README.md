@@ -27,7 +27,7 @@
 
   <div align="center">
      <a href="https://github.com/marllon-freitas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&include_all_commits=true&show_icons=true&theme=monokai&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
       <a href="https://github.com/marllon-freitas">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=monokai"/>
     </div>
