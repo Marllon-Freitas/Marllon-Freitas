@@ -24,16 +24,14 @@
   </div>
   
   <br>
-
-  <div align="center">
-     <a href="https://github.com/marllon-freitas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <a href="https://github.com/marllon-freitas">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=dark"/>
-    </div>
-        
    <div align="center">
-       <a href="https://github-readme-activity-graph.cyclic.app/graph?username=marllon-freitas&theme=dark">
+    <a href="https://github.com/marllon-freitas">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+     <a href="https://github.com/marllon-freitas">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=monokai"/>
+   </div>
+   <div align="center">
+       <a href="https://github-readme-activity-graph.cyclic.app/graph?username=marllon-freitas&theme=monokai">
            <p>
                <img width="850em" src="https://github-readme-activity-graph.cyclic.app/graph?username=marllon-freitas&theme=monokai">
            </p>
@@ -41,12 +39,11 @@
    </div>
    <div align="center">
        <a href="https://github.com/marllon-freitas">
-         <img height="180em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=marllon-freitas&theme=dark">
+         <img height="180em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=marllon-freitas&theme=monokai">
     </a>
-   </div>
+   </div>                                                                                              
+  </div>
 
-
-    </div>
   <br />
 
   ### Come say hi:
