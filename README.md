@@ -41,7 +41,7 @@
   <div align="center">
      <p align="center" width="100%">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-       <img src="https://github-profile-trophy.vercel.app/?username=marllon-freitas&theme=monokai&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC&margin-w=15&no-bg=true&no-frame=true&column=3&lang=pt-br" alt="marllon-freitas" />
+       <img src="https://github-profile-trophy.vercel.app/?username=marllon-freitas&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC&margin-w=15&no-bg=true&no-frame=true&column=4&lang=pt-br" alt="marllon-freitas" />
     </a> 
   </p>
      <a href="https://github.com/marllon-freitas">
