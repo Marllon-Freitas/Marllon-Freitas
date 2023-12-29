@@ -4,11 +4,11 @@
 </table>
 
 <div style="background-color: #232323; padding: 2rem 1.5rem; border-radius: 10px">
-  <h1 style="font-family: Nunito, sans-serif">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Marllon Freitas</h1>
+  <h1 style="font-family: Nunito, sans-serif">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Marlon Freitas</h1>
 
   - 💻 Full-Stack Developer
 
-  - 🔭 Estou trabalhando atualmente na [G4Flex - Business and Services](http://www.g4flex.com.br/)
+  - 🔭 I am currently working at [G4Flex - Business and Services](http://www.g4flex.com.br/)
 
   <hr>
 
