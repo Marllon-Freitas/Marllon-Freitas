@@ -28,11 +28,11 @@
    <div align="center">
      <p align="center" width="100%">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-       <img src="https://github-profile-trophy.vercel.app/?username=marllon-freitas&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC&margin-w=15&no-bg=true&no-frame=true&column=4&lang=pt-br" alt="marllon-freitas" />
+       <img src="https://github-profile-trophy.vercel.app/?username=marllon-freitas&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC&margin-w=15&no-bg=true&no-frame=true&column=4&lang=en" alt="marllon-freitas" />
     </a> 
   </p>
      <a href="https://github.com/marllon-freitas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=en"/>
      </a>
       <a href="https://github.com/marllon-freitas">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=monokai"/>
