@@ -34,7 +34,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-br"/>
      </a>
       <a href="https://github.com/marllon-freitas">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=7&theme=monokai"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=8&theme=monokai"/>
       </a>
     </div>
     <div align="center">
