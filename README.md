@@ -31,10 +31,10 @@
     </a> 
   </p>
      <a href="https://github.com/marllon-freitas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marllon-freitas&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marllon-freitas&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
      </a>
       <a href="https://github.com/marllon-freitas">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=8&theme=monokai"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=8&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F2F2F2"/>
       </a>
     </div>
     <div align="center">
@@ -43,7 +43,7 @@
         </a>
     </div>  
      <div align="center">
-         <img height="300em" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marllon-freitas&theme=monokai">
+         <img height="300em" alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marllon-freitas&bg_color=150E1F&color=F2F2F2&title_color=F28157&line=F28157&point=F2D16D&radius=14">
     </div>
    </div>
   <br />
