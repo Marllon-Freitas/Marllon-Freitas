@@ -3,6 +3,8 @@
  <tr><td><a href="https://github.com/Marllon-Freitas/Marllon-Freitas/blob/master/README.md">:brazil: Português</a></td></tr>
 </table>
 
+<p align="center"><img src="https://github.com/Marllon-Freitas/Marllon-Freitas/assets/71530690/bfc879f6-13d2-441c-a3e4-1ef143b463f8" width="500"/></p>
+
 <div style="background-color: #232323; padding: 2rem 1.5rem; border-radius: 10px">
   <h1 style="font-family: Nunito, sans-serif">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Marlon Freitas</h1>
 
