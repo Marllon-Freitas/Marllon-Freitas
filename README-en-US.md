@@ -42,7 +42,7 @@
     </div>
     <div align="center">
         <a href="https://github.com/marllon-freitas">
-          <img height="180em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=marllon-freitas&theme=monokai">
+          <img height="180em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=marllon-freitas&theme=travelers-theme">
         </a>
     </div>  
      <div align="center">
