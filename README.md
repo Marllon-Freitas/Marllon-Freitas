@@ -3,7 +3,7 @@
  <tr><td><a href="https://github.com/Marllon-Freitas/Marllon-Freitas/blob/master/README.md">:brazil: Português</a></td></tr>
 </table>
 
-<p align="center"><img src="https://github.com/Marllon-Freitas/Marllon-Freitas/assets/71530690/bfc879f6-13d2-441c-a3e4-1ef143b463f8" width="500"/></p>
+<p align="center"><img src="https://github.com/Marllon-Freitas/Marllon-Freitas/assets/71530690/3f78717d-c1c0-4b48-9a5c-35c087450ca6" width="500"/></p>
 
 <div style="background-color: #232323; padding: 2rem 1.5rem; border-radius: 10px">
   <h1 style="font-family: Nunito, sans-serif">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Marllon Freitas</h1>
