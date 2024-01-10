@@ -33,7 +33,7 @@
     </a> 
   </p>
      <a href="https://github.com/marllon-freitas">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marllon-freitas&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=marllon-freitas&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F28157&rank_icon=github"/>
      </a>
       <a href="https://github.com/marllon-freitas">
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllon-freitas&layout=compact&langs_count=8&style=for-the-badge&title_color=F28157&text_color=F2F2F2&bg_color=150E1F&border_color=2B1D40&show_icons=true&icon_color=F2F2F2"/>
