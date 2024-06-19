@@ -13,6 +13,7 @@
   - 🔭 Estou trabalhando atualmente na [G4Flex - Business and Services](http://www.g4flex.com.br/)
 
   <hr>
+  
   ## Tecnologias:
 
   <div align="center">
