@@ -7,7 +7,7 @@
   <img src="https://github.com/Marllon-Freitas/Marllon-Freitas/assets/71530690/b14ba72a-0632-432f-90c7-c6a4adea59f2" width="500"/>
 </div>
 
-<img align="right" height="320" alt="coding-time" src="https://github.com/Marllon-Freitas/github-images/blob/main/readme/outerwilds.gif?raw=true">
+<img align="right" height="300" alt="coding-time" src="https://github.com/Marllon-Freitas/github-images/blob/main/readme/outerwilds.gif?raw=true">
 
 ### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Marllon Freitas
 
